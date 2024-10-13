@@ -14,7 +14,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 :doc:`安装`
     如何在您的 Sphinx 项目上安装此主题。
 
-:doc:`configuring`
+:doc:`配置`
     主题配置和自定义选项。
 
 :ref:`supported-browsers`
@@ -26,7 +26,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 发展
 -----------
 
-:doc:`contributing`
+:doc:`贡献`
     如何对主题做出改变。
 
 :doc:`Development guidelines <development>`
@@ -53,9 +53,9 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
    :hidden:
 
    安装
-   configuring
+   配置
    development
-   contributing
+   贡献
 
 .. toctree::
    :maxdepth: 1
@@ -69,7 +69,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
     :caption: 演示文档
     :hidden:
 
-    demo/structure
+    demo/结构
     demo/demo
     demo/lists_tables
     demo/api
