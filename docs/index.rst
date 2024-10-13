@@ -54,7 +54,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 
    安装
    配置
-   development
+   发展
    贡献
 
 .. toctree::
