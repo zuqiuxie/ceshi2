@@ -69,9 +69,9 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
     :caption: 演示文档
     :hidden:
 
-    demo/结构
-    demo/演示
-    demo/列表
+    demo/结构元素
+    demo/段落级标记
+    demo/列表和表格
     demo/api
 
 .. toctree::
@@ -80,7 +80,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
     :caption: 这是一个很长的菜单的超长标题
     :hidden:
 
-    demo/long
+    demo/长置顶导航
     
 .. toctree::
     :maxdepth: 3
