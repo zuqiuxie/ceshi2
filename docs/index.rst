@@ -71,7 +71,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 
     demo/结构
     demo/演示
-    demo/列表表
+    demo/列表
     demo/api
 
 .. toctree::

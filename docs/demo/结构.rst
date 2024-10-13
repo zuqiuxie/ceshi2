@@ -41,7 +41,7 @@ Phasellus a turpis sollicitudin, bibendum massa et, imperdiet neque. Integer qui
 Integer cursus ex sed magna vehicula finibus. Proin tempus orci quis dolor tempus, nec condimentum odio vestibulum.
 Etiam efficitur sollicitudin libero, tincidunt volutpat ligula interdum sed.
 
-Document Subsubsection
+文件子部分
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Donec non rutrum lorem. Aenean sagittis metus at pharetra fringilla. Nunc sapien dolor, cursus sed nisi at,
@@ -51,7 +51,7 @@ Maecenas at pharetra tortor. Morbi semper eget mi vel finibus. Cras rutrum nulla
 Sed finibus tortor ac nisi ultrices viverra. Duis feugiat malesuada sapien, at commodo ante porttitor ac.
 Curabitur posuere mauris mi, vel ornare orci scelerisque sit amet. Suspendisse nec fringilla dui. 
 
-Document Paragraph
+文档段落
 """"""""""""""""""
 
 Pellentesque nec est in odio ultrices elementum. Vestibulum et hendrerit sapien, quis vulputate turpis.
@@ -85,7 +85,7 @@ luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper se
     :align: right
     :figwidth: 200px
 
-    This is a caption for a figure. Text should wrap around the caption.
+    这是图片的标题。文字应该环绕标题。
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur in eros et blandit. Nunc maximus,
 nisl at auctor vestibulum, justo ex sollicitudin ligula, id faucibus urna orci tristique nisl.
