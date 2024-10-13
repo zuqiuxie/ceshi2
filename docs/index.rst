@@ -35,7 +35,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 `Read the Docs contributor guide`_
     我们的贡献指南适用于由 Read the Docs 核心团队维护的所有项目。
 
-:doc:`changelog`
+:doc:`变更日志`
     主题开发更新日志。
 
 :doc:`Demo documentation <demo/structure>`
@@ -54,14 +54,14 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 
    安装
    配置
-   development
+   发展
    贡献
 
 .. toctree::
    :maxdepth: 1
    :hidden:
 
-   changelog
+   变更日志
 
 .. toctree::
     :maxdepth: 2
