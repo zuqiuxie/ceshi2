@@ -1,4 +1,4 @@
-Development
+发展
 ===========
 
 The theme developers follow the guidelines below for development and release
@@ -8,7 +8,7 @@ dependency support.
 
 .. _supported-browsers:
 
-Supported browsers
+支持的浏览器
 ------------------
 
 Official browser support is determined by the most popular browser/operating
@@ -50,7 +50,7 @@ Opera (any OS, any version)
 
 .. _supported-dependencies:
 
-Supported dependencies
+支持的依赖项
 ----------------------
 
 The theme officially supports the following dependencies in your Sphinx project:
@@ -86,7 +86,7 @@ The theme officially supports the following dependencies in your Sphinx project:
 .. versionadded:: 1.0
     docutils 0.17 support added
 
-Roadmap
+路线图
 -------
 
 We currently have several releases planned on our development roadmap. Backward
