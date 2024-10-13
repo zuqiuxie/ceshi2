@@ -1,5 +1,5 @@
 *********
-Changelog
+变更日志
 *********
 
 .. seealso:: :ref:`howto_upgrade`
@@ -11,13 +11,13 @@ Changelog
 2.0.0
 =====
 
-Added
+额外
 -----
 
 * Support for Sphinx versions ``6.x`` and ``7.x``
 * Support for docutils ``<=0.20``
 
-Deprecations
+弃用
 ------------
 
 * The HTML4 writer is now officially deprecated. An error will be thrown if your
@@ -31,7 +31,7 @@ Deprecations
 1.3.0
 =====
 
-Added
+额外
 -----
 
 * Relaxed requirements to include Sphinx release ``7.0``
@@ -41,12 +41,12 @@ Added
 1.2.2
 =====
 
-Fixes
+修复
 -----
 
 * Require `sphinxcontrib-jquery>=4,<5` (#1446)
 
-Added
+额外
 -----
 
 * Styling for `:menuselection:` (#1426)
@@ -57,7 +57,7 @@ Added
 1.2.1
 =====
 
-Fixes
+修复
 -----
 
 * Load jQuery correctly when using latest sphinxcontrib-jquery release (#1448)
@@ -108,7 +108,7 @@ See `readthedocs.org issue #9654`_ for updates.
 1.1.1
 =====
 
-Fixes
+修复
 -----
 
 * Fix wrapping bug on cross references (#1368)
@@ -118,7 +118,7 @@ Fixes
 1.1.0
 =====
 
-Dependency Changes
+依赖项更改
 ------------------
 
 Many documentation projects depend on ``sphinx-rtd-theme`` without specifying a version of the theme (unpinned) while also depending on unpinned versions of Sphinx. The latest version of ``sphinx-rtd-theme`` ideally always supports the latest version of Sphinx, but this is now guaranteed.
@@ -130,14 +130,14 @@ This release adds upper bounds to direct dependencies ``Sphinx`` and ``docutils`
 * ``docutils<0.18`` (unchanged, but will be bumped in an upcoming release)
 
 
-Features
+特征
 --------
 
 * Nicer styles for <kbd> (#967)
 * New styling for breadcrumbs (#1073)
 
 
-Fixes
+修复
 -----
 
 * Suffixes in Sphinx version caused build errors (#1345)
@@ -147,7 +147,7 @@ Fixes
 * Long URLs did not wrap (#1193)
 
 
-Minor Changes
+细微改动
 -------------
 
 * Sphinx 5.2 added to test matrix (#1348)
@@ -157,7 +157,7 @@ Minor Changes
 * Jinja2 context variable ``sphinx_version_info`` is now ``(major, minor, -1)``, the patch component is always ``-1``. Reason: It's complicated. (#1345)
 
 
-Incompatible Changes
+不兼容的变化
 --------------------
 
 There are no known incompatible changes in this release. Support for ``docutils`` versions 0.18 and 0.19 are scheduled for our next release.
@@ -168,18 +168,18 @@ There are no known incompatible changes in this release. Support for ``docutils`
 1.0.0
 =====
 
-Incompatible Changes
+不兼容的变化
 --------------------
 
 * The minimum supported python version is now 2.7 or 3.4 and greater (#1093)
 * The minimum supported Sphinx version is now 1.6 (#1091)
 
-Deprecated
+已弃用
 ----------
 
 * Support for Sphinx's HTML4 writer is deprecated and will be removed in version 2.0 (#1091)
 
-Features
+特征
 --------
 
 * Add support for Sphinx 4.x (#1123)
@@ -200,7 +200,7 @@ A number of accessibility features were added in this release:
 * Maintain aria-expanded along with .current in menu (#1151)
 * Respect tab order for prev/next buttons (#1051)
 
-Fixes
+修复
 -----
 
 * Updated Google analytics integration (#1129)
@@ -214,7 +214,7 @@ Fixes
 * Fix ``<pre>`` overflow (#1220)
 * Fix literal/ref style inside ``<dl>`` (#1088)
 
-Other Changes
+其他变化
 -------------
 
 * Update npm development dependencies (#1096)
@@ -241,7 +241,7 @@ Other Changes
 
 :Date: January 4, 2021
 
-Fixes
+修复
 -----
 
 * Set ``url_root`` properly on index (#1025)
@@ -253,12 +253,12 @@ Fixes
 * Footer: show both ``commit`` and ``last_updated`` if available (#897)
 * Search page: don't show "edit on" links (#935)
 
-New Features
+新功能
 ------------
 
 * New theme option to enable anonymous ip addresses when using Google Analytics (#889)
 
-Other Changes
+其他变化
 -------------
 
 * The ``canonical_url`` option was deprecated in favor of Sphinx's ``html_baseurl`` (#1003)
@@ -273,7 +273,7 @@ Other Changes
 
 :Date: Jun 17, 2020
 
-Fixes
+修复
 -----
 
 * Fix bullet list spacing to respect simple/complex list styles
@@ -285,7 +285,7 @@ Fixes
 
 :Date: June 5, 2020
 
-Fixes
+修复
 -----
 
 * Fix issue with simple definition lists that was missed
@@ -300,12 +300,12 @@ Fixes
 
 :Date: May 6, 2020
 
-Fixes
+修复
 -----
 
 * Fix many styling issues that look different when using the Sphinx HTML5 writer
 
-Other Changes
+其他变化
 --------------
 
 * Add the ``navigation`` template block around the navigation area.
@@ -321,10 +321,10 @@ Other Changes
 
 :Date: Feb 12, 2019
 
-New Features
+新功能
 -------------
 
-Fixes
+修复
 -----
 
 * Fix scrolling to active item in sidebar on load (#214)
@@ -333,7 +333,7 @@ Fixes
 * Fix last_updated notice appearing in same line as copyright notice (#704)
 
 
-Other Changes
+其他变化
 --------------
 
 .. _release-0.4.2:
@@ -343,16 +343,16 @@ Other Changes
 
 :Date: Oct 5, 2018
 
-New Features
+新功能
 -------------
 
-Fixes
+修复
 -----
 
 * Set base font size on <html> (#668)
 * Fix HTML search not working with Sphinx-1.8 (#672)
 
-Other Changes
+其他变化
 --------------
 
 * Upload signed packages to PyPI with twine (#651)
@@ -363,15 +363,15 @@ Other Changes
 
 :Date: July 27, 2018
 
-New Features
+新功能
 -------------
 
-Fixes
+修复
 -----
 
 * Line height adjustments for Liberation Mono (#656)
 
-Other Changes
+其他变化
 --------------
 
 * Add Sphinx as a dependency
@@ -383,16 +383,16 @@ This version made some changes to how JS and CSS were included
 when the theme is used on Read the Docs.
 
 
-New Features
+新功能
 -------------
 
-Fixes
+修复
 -----
 
 * Do not rely on readthedocs.org for CSS/JS (#614)
 * Color accessibility improvements on the left navigation
 
-Other Changes
+其他变化
 ---------------
 
 * Write theme version and build date at top of JavaScript and CSS
@@ -402,7 +402,7 @@ Other Changes
 0.3.1
 =====
 
-Fixes
+修复
 -----
 
 * Revert part of #576 causing display issues with version selector menu
@@ -416,7 +416,7 @@ Fixes
 
 **Note**: this version resulted in some JavaScript incompatibilities when used on readthedocs.org
 
-New Features
+新功能
 -------------
 
 * Add html language attribute
@@ -428,7 +428,7 @@ New Features
   Sphinx ``html_theme`` directly.
 * Add language to the JS output variable
 
-Fixes
+修复
 -----
 
 * Fix some HTML warnings and errors
@@ -438,7 +438,7 @@ Fixes
 * Hide Edit links on auto created pages
 * Include missing font files with the theme
 
-Other Changes
+其他变化
 --------------
 
 * Significant improvement of our documentation

@@ -1,5 +1,5 @@
 ************
-Contributing
+贡献
 ************
 
 This project follows the Read the Docs :doc:`code of conduct
@@ -9,7 +9,7 @@ take a minute to read the policy before starting with your first contribution.
 .. tip::
     There is a new dockerized build environment, see :ref:`dockerized-build`.
 
-Modifying the theme
+修改主题
 ===================
 
 The styles for this theme use SASS_ and a custom CSS framework called Wyrm_. We
@@ -20,7 +20,7 @@ changes, rebuild the static assets, and rebuild the Sphinx demo documentation.
     The installation of Node is outside the scope of this documentation. You
     will need Node version 10+ in order to make changes to this theme.
 
-Set up your environment
+设置环境
 -----------------------
 
 #. Install Sphinx_ and documentation build dependencies.
@@ -35,7 +35,7 @@ Set up your environment
 
        $ npm install
 
-Making changes
+做出改变
 --------------
 
 Changes to the theme can be compiled and tested with Webpack_:
@@ -68,7 +68,7 @@ can be used to test built assets:
 
 .. _dockerized-build:
 
-Dockerized development
+Docker化开发
 ======================
 
 If you have Docker available on your platform, you can get started building CSS and JS artifacts a bit faster and won't have to worry about any of the setup spilling over into your general environment.
@@ -95,7 +95,7 @@ Use the following steps:
 
 Every time you change the Node or Python requirements, you will need to rebuild images with ``docker-compose run sphinx_rtd_theme build``. If you change SASS or JS, you will need to rebuild assets.
 
-Testing
+测试
 =======
 
 QA testing theme changes and pull requests is complex, due to backwards
@@ -173,7 +173,7 @@ Currently, the most important environments to QA are:
 * ``py310-sphinxlatest``
 * ``py310-sphinxdev``
 
-Translations
+翻译
 ============
 
 Translations are managed using `Transifex`_. You can join any of the existing
@@ -195,7 +195,7 @@ put up for review.
 
 .. _Transifex: https://www.transifex.com/readthedocs/sphinx-rtd-theme
 
-Versioning
+版本控制
 ==========
 
 ..
@@ -222,7 +222,7 @@ development version -- the version found in the repository -- is always greater
 than the most recent release. We follow up with another pull request by running
 ``bump2version patch``, which increments ``1.2.0`` to ``1.2.1alpha1``.
 
-Releasing the theme
+发布主题
 ===================
 
 To release a new version of the theme, core team will take the following steps:
