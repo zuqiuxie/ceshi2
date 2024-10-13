@@ -70,8 +70,8 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
     :hidden:
 
     demo/结构
-    demo/demo
-    demo/lists_tables
+    demo/演示
+    demo/列表表
     demo/api
 
 .. toctree::
