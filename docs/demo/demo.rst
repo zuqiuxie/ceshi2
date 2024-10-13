@@ -7,12 +7,12 @@
    :width: 1em
 
 **********************
-Paragraph Level Markup
+段落级标记
 **********************
 
 .. contents:: Table of Contents
 
-Inline Markup
+内联标记
 =============
 
 Paragraphs contain text and may contain inline markup: *emphasis*, **strong emphasis**, ``inline literals``,
@@ -55,7 +55,7 @@ If the ``--pep-references`` option was supplied, there should be a live link to 
 
 Very long URLs should be wrapped so lines do not overflow and cause horizontal scrolling: https://www.google.com/search?hl=en&q=very%20long%20url%20example%20of%20a%20url%20that%20is%20extremely%20long%20you%20probably%20want%20to%20avoid%20it%20but%20here%20we%20are
 
-Math
+数学
 ====
 
 This is a test. Here is an equation:
@@ -74,7 +74,7 @@ Here is another:
 
 You can add a link to equations like the one above :eq:`This is a label` by using ``:eq:``.
 
-Meta
+元
 ====
 
 .. meta::
@@ -83,10 +83,10 @@ Meta
        markup language, containing examples of all basic
        constructs and many advanced constructs.
        
-Blocks
+区块
 ======
 
-Literal Blocks
+文字块
 --------------
 
 Literal blocks are indicated with a double-colon ("::") at the end of
@@ -103,7 +103,7 @@ Or they can be quoted without indentation::
 >
 > Why didn't I think of that?
 
-Line Blocks
+线块
 -----------
 
 | This is a line block.  It ends with a blank line.
@@ -134,7 +134,7 @@ Take it away, Eric the Orchestra Leader!
     |
     | Singing...
 
-Block Quotes
+区块引用
 ------------
 
 Block quotes consist of indented body elements:
@@ -147,7 +147,7 @@ Block quotes consist of indented body elements:
 
     -- Anne Elk (Miss)
 
-Doctest Blocks
+文档测试块
 --------------
 
 >>> print 'Python-specific usage examples; begun with ">>>"'
@@ -155,7 +155,7 @@ Python-specific usage examples; begun with ">>>"
 >>> print '(cut and pasted from interactive Python sessions)'
 (cut and pasted from interactive Python sessions)
 
-Code Blocks
+代码块
 -----------
 
 .. parsed-literal::
@@ -201,7 +201,7 @@ Emphasized lines with line numbers
        print 'This one is not...'
        print '...but this one is.'
 
-Sidebar
+侧边栏
 =======
 
 .. sidebar:: Ch'ien / The Creative
@@ -224,7 +224,7 @@ on the universe and of its action on the world of men. In relation to the univer
 creative action of the Deity. In relation to the human world, it denotes the creative action of the holy man or sage,
 of the ruler or leader of men, who through his power awakens and develops their higher nature.
 
-Code with Sidebar
+带侧边栏的代码
 -----------------
 
 .. sidebar:: A code example
@@ -237,10 +237,10 @@ Code with Sidebar
     :linenos:
     :lines: 1-40
 
-References
+参考
 ==========
 
-Footnotes
+脚注
 ---------
 
 .. [1] A footnote contains body elements, consistently indented by at
@@ -265,7 +265,7 @@ Footnotes
 .. [4] Here's an unreferenced footnote, with a reference to a
    nonexistent footnote: [5]_.
 
-Citations
+引用
 ---------
 
 .. [Citation] This is the citation I made, let's make this extremely long so that we can tell that it doesn't follow the normal responsive table stuff.
@@ -278,7 +278,7 @@ Citations
 
 Here's a reference to the above, [Citation]_, and a [nonexistent]_ citation.
 
-Glossary
+词汇表
 --------
 
 This is a glossary with definition terms for thing like :term:`Writing`:
@@ -294,7 +294,7 @@ This is a glossary with definition terms for thing like :term:`Writing`:
   Writing
      The process of putting thoughts into a medium for other people to :term:`read <Reading>`.
 
-Targets
+目标
 -------
 
 .. _example:
@@ -318,10 +318,10 @@ __ Targets_
 Here's a `hyperlink reference without a target`_, which generates an error.
 
 
-Directives
+指令
 ==========
 
-Contents
+内容
 --------
 
 .. contents:: :local:
@@ -330,14 +330,14 @@ These are just a sample of the many reStructuredText Directives. For others, ple
 http://docutils.sourceforge.net/docs/ref/rst/directives.html.
 
 
-Centered text
+居中文本
 -------------
 
 You can create a statement with centered text with ``.. centered::``
 
 .. centered:: This is centered text!
 
-Images & Figures
+图片与图表
 ----------------
 
 Images
@@ -373,7 +373,7 @@ A figure directive with center alignment
 
    This caption should be centered.
 
-Admonitions
+警告
 -----------
 
 .. Attention:: Directives at large.
@@ -421,7 +421,7 @@ Admonitions
 
    You can make up your own admonition too.
 
-Topics, Sidebars, and Rubrics
+主题、侧边栏和评分标准
 -----------------------------
 
 .. sidebar:: Sidebar Title
@@ -441,19 +441,19 @@ Topics, Sidebars, and Rubrics
 
 .. rubric:: This is a rubric
 
-Target Footnotes
+目标脚注
 ----------------
 
 .. target-notes::
 
-Replacement Text
+替换文本
 ----------------
 
 I recommend you try |Python|_.
 
 .. |Python| replace:: Python, *the* best language around
 
-Compound Paragraph
+复合段落
 ------------------
 
 .. compound::
@@ -471,7 +471,7 @@ Compound Paragraph
 This construct is called a *compound paragraph* and can be produced
 with the "compound" directive.
 
-Download Links
+下载链接
 ==============
 
 :download:`This long long long long long long long long long long long long long long long download link should be blue, normal weight text with a leading icon, and should wrap white-spaces <static/yi_jing_01_chien.jpg>`

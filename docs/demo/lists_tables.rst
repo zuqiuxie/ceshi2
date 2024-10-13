@@ -1,14 +1,14 @@
 
 **************
-Lists & Tables
+列表和表格
 **************
 
 .. contents:: Table of Contents
 
-Lists
+列表
 =====
 
-Enumerated Lists
+枚举列表
 ----------------
 
 1. Arabic numerals.
@@ -37,7 +37,7 @@ Enumerated Lists
 
 #. List items may also be auto-enumerated.
 
-Definition Lists
+定义列表
 ----------------
 
 Term
@@ -62,7 +62,7 @@ Is it the paragraph above the list maybe?
 Is it everything all at once?
     Who knows?!
 
-Option Lists
+选项列表
 ------------
 
 For listing command-line options:
@@ -88,7 +88,7 @@ For listing command-line options:
 
 There must be at least two spaces between the option and the description.
 
-Field list
+字段列表
 ----------
 
 .. bibliographic fields (which also require a transform):
@@ -127,7 +127,7 @@ Field list
     language, containing examples of all basic reStructuredText
     constructs and many advanced constructs.
 
-Bullet Lists
+项目符号列表
 ------------
 
 ..
@@ -249,7 +249,7 @@ Hlists
          This is a long caption for a figure. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
          Donec porttitor dolor in odio posuere, vitae ornare libero mattis. In lobortis justo vestibulum nibh aliquet, non.
 
-Numbered List
+编号列表
 -------------
 
 #. One,
@@ -261,10 +261,10 @@ Numbered List
 - B) Using bullets and letters. (B)
 - C) Using bullets and letters. (C)
 
-Tables
+表格
 ======
 
-Grid Tables
+网格表
 -----------
 
 Here's a grid table followed by a simple table:
@@ -311,7 +311,7 @@ Giant Tables
 | body row 1 | column 2   | column 3  | body row 1 | column 2   | column 3  | body row 1 | column 2   | column 3  | body row 1 | column 2   | column 3  |
 +------------+------------+-----------+------------+------------+-----------+------------+------------+-----------+------------+------------+-----------+
 
-List Tables
+列出表格
 -----------
 
 .. list-table:: List tables can have captions like this one.
@@ -348,7 +348,7 @@ List Tables
            Donec porttitor dolor in odio posuere, vitae ornare libero mattis. In lobortis justo vestibulum nibh aliquet, non.
 
 
-Tables with paragraphs
+带段落的表格
 ----------------------
 
 .. regression test for https://github.com/readthedocs/sphinx_rtd_theme/issues/289

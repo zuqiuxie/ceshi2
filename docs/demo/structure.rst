@@ -1,6 +1,6 @@
 
 *******************
-Structural Elements
+结构元素
 *******************
 
 .. contents:: Table of Contents
@@ -19,7 +19,7 @@ Praesent dignissim mi nec ornare elementum. Nunc eu augue vel sem dignissim curs
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 Pellentesque dictum dui sem, non placerat tortor rhoncus in. Sed placerat nulla at rhoncus iaculis. 
 
-Document Section
+文件部分
 ================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum nulla vel neque venenatis,
@@ -29,7 +29,7 @@ Donec vestibulum convallis justo, a faucibus lorem vulputate vel. Aliquam cursus
 Aliquam erat volutpat. Maecenas eget dictum mauris. Suspendisse arcu eros, condimentum eget risus sed,
 luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper semper enim commodo nec.
 
-Document Subsection
+文件子部分
 -------------------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur in eros et blandit. Nunc maximus,
@@ -60,7 +60,7 @@ Mauris maximus viverra ante. Donec eu egestas mauris. Morbi vulputate tincidunt 
 Donec at lacus suscipit, lacinia lectus vel, sagittis lectus.
 
 *********************
-Structural Elements 2
+结构元素 2
 *********************
 
 Etiam turpis ante, luctus sed velit tristique, finibus volutpat dui. Nam sagittis vel ante nec malesuada.
@@ -68,7 +68,7 @@ Praesent dignissim mi nec ornare elementum. Nunc eu augue vel sem dignissim curs
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 Pellentesque dictum dui sem, non placerat tortor rhoncus in. Sed placerat nulla at rhoncus iaculis. 
 
-Document Section
+文件部分
 ================
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed condimentum nulla vel neque venenatis,
@@ -78,7 +78,7 @@ Donec vestibulum convallis justo, a faucibus lorem vulputate vel. Aliquam cursus
 Aliquam erat volutpat. Maecenas eget dictum mauris. Suspendisse arcu eros, condimentum eget risus sed,
 luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper semper enim commodo nec.
 
-Document Subsection
+文件子部分
 -------------------
 
 .. figure:: static/yi_jing_01_chien.jpg

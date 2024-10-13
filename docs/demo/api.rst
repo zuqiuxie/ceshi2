@@ -1,5 +1,5 @@
 ***************************************
-API documentation and generated content
+API 文档和生成的内容
 ***************************************
 
 .. contents:: Table of Contents
@@ -13,7 +13,7 @@ API documentation and generated content
     :special-members:
 
 
-C++ API
+C++ 接口
 =======
 
 .. cpp:type:: MyType
@@ -59,7 +59,7 @@ C++ API
    .. cpp:enumerator:: B
 
 
-JavaScript API
+JavaScript 接口
 ==============
 
 .. Copied from sphinx-doc/sphinx/tests/roots
@@ -96,13 +96,13 @@ JavaScript API
         * Link to :js:meth:`nested_child_1`
 
 
-Generated Index
+生成的索引
 ===============
 
 Part of the sphinx build process is to generate an index file: :ref:`genindex`.
 
 
-Optional parameter args
+可选参数 args
 =======================
 
 At this point optional parameters `cannot be generated from code`_.
@@ -127,7 +127,7 @@ This example comes from `django-payments module docs`_.
 .. _django-payments module docs: http://django-payments.readthedocs.org/en/latest/modules.html#payments.authorizenet.AuthorizeNetProvide
 
 
-Data
+数据
 ====
 
 .. data:: Data_item_1
@@ -139,10 +139,10 @@ Data
 Some data link :data:`Data_item_1`.
 
 
-Sphinx Extensions
+Sphinx 扩展
 =================
 
-sphinx.ext.autosummary
+sphinx.ext.自动摘要
 ----------------------
 
 .. autosummary::

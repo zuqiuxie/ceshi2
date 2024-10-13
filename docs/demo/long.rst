@@ -1,214 +1,214 @@
 
 ***************
-Long Sticky Nav
+长置顶导航
 ***************
 
 .. contents:: Table of Contents
 
-This section demonstrates how the 'sticky_navigation' setting behaves when the menu is very long.
-When this section is selected, it will make the menu and the main area scroll when you are at the top of the page.
+本节演示当菜单很长时“sticky_navigation”设置如何运作。
+当选择此部分时，当您位于页面顶部时，它将使菜单和主区域滚动。
 
 
-Example Menu 1
+菜单示例 1
+==============
+
+只是一个占位符...
+
+
+菜单示例 2
 ==============
 
 Just a place holder...
 
 
-Example Menu 2
+菜单示例 3
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 3
+菜单示例 4
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 4
+菜单示例 5
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 5
+菜单示例 6
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 6
+菜单示例 7
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 7
+菜单示例 8
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 8
+菜单示例 9
 ==============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 9
-==============
-
-Just a place holder...
-
-
-Example Menu 10
+菜单示例 10
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 11
+菜单示例 11
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 12
+菜单示例 12
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 13
+菜单示例 13
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 14
+菜单示例 14
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 15
+菜单示例 15
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 16
+菜单示例 16
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 17
+菜单示例 17
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 18
+菜单示例 18
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 19
+菜单示例 19
 ===============
 
-Just a place holder...
+只是一个占位符...
 
 
-Example Menu 20
+菜单示例 20
 ===============
 
-Just a place holder...
+只是一个占位符...
 
-Example Submenu 1
+示例子菜单 1
 =================
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 1
+子菜单 1
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Subsubmenu 1
+子子菜单 1
 ^^^^^^^^^^^^
 
-Just a place holder...
+只是一个占位符...
 
-Subsubmenu 2
+子子菜单 2
 ^^^^^^^^^^^^
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 2
+子菜单 2
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Subsubmenu 1
+子子菜单 1
 ^^^^^^^^^^^^
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 3
+子菜单 3
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 4
+子菜单 4
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 5
+子菜单 5
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Example Submenu 2
+示例子菜单 2
 =================
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 1
+子菜单 1
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Subsubmenu 1
+子子菜单 1
 ^^^^^^^^^^^^
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 2
+子菜单 2
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Subsubmenu 1
+子子菜单 1
 ^^^^^^^^^^^^
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 3
+子菜单 3
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 4
+子菜单 4
 ---------
 
-Just a place holder...
+只是一个占位符...
 
-Submenu 5
+子菜单 5
 ---------
 
-Just a place holder...
+只是一个占位符...
