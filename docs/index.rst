@@ -11,7 +11,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 使用此主题
 ----------------
 
-:doc:`installing`
+:doc:`安装`
     如何在您的 Sphinx 项目上安装此主题。
 
 :doc:`configuring`
