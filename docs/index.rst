@@ -11,35 +11,36 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 使用此主题
 ----------------
 
-:doc:`Installation`
-    如何在您的 Sphinx 项目上安装此主题。
+:doc:`installing`
+    How to install this theme on your Sphinx project.
 
 :doc:`configuring`
-    主题配置和自定义选项。
+    Theme configuration and customization options.
 
 :ref:`supported-browsers`
-    支持的浏览器/操作系统组合。
+    Supported browser/operating system combinations.
 
 :ref:`supported-dependencies`
-    支持项目依赖项，如 Python 和 Sphinx。
+    Supported project dependencies, like Python and Sphinx.
 
 发展
 -----------
 
 :doc:`contributing`
-    如何对主题做出改变。
+    How to contribute changes to the theme.
 
 :doc:`Development guidelines <development>`
-    主题开发人员用于开发和测试更改的指南。
+    Guidelines the theme developers use for developing and testing changes.
 
 `Read the Docs contributor guide`_
-    我们的贡献指南扩展到由 Read the Docs 核心团队维护的所有项目。
+    Our contribution guidelines extend to all projects maintained by Read the
+    Docs core team.
 
 :doc:`changelog`
-    主题开发更新日志。
+    The theme development changelog.
 
 :doc:`Demo documentation <demo/structure>`
-    主题的样式指南测试环境，在此测试新的变化。
+    The theme's styleguide test environment, where new changes are tested.
 
 
 .. _Read the Docs contributor guide: https://docs.readthedocs.io/en/stable/contribute.html
