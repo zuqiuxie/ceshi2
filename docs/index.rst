@@ -12,7 +12,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 ----------------
 
 :doc:`installing`
-    How to install this theme on your Sphinx project.
+    如何在您的 Sphinx 项目上安装此主题。
 
 :doc:`configuring`
     Theme configuration and customization options.
