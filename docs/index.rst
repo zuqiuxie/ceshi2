@@ -15,32 +15,31 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
     如何在您的 Sphinx 项目上安装此主题。
 
 :doc:`configuring`
-    Theme configuration and customization options.
+    主题配置和自定义选项。
 
 :ref:`supported-browsers`
-    Supported browser/operating system combinations.
+    支持的浏览器/操作系统组合。
 
 :ref:`supported-dependencies`
-    Supported project dependencies, like Python and Sphinx.
+    支持项目依赖项，如 Python 和 Sphinx。
 
 发展
 -----------
 
 :doc:`contributing`
-    How to contribute changes to the theme.
+    如何对主题做出改变。
 
 :doc:`Development guidelines <development>`
-    Guidelines the theme developers use for developing and testing changes.
+    主题开发人员用于开发和测试更改的指南。
 
 `Read the Docs contributor guide`_
-    Our contribution guidelines extend to all projects maintained by Read the
-    Docs core team.
+    我们的贡献指南适用于由 Read the Docs 核心团队维护的所有项目。
 
 :doc:`changelog`
-    The theme development changelog.
+    主题开发更新日志。
 
 :doc:`Demo documentation <demo/structure>`
-    The theme's styleguide test environment, where new changes are tested.
+    主题的样式指南测试环境，在此测试新的变化。
 
 
 .. _Read the Docs contributor guide: https://docs.readthedocs.io/en/stable/contribute.html
@@ -78,13 +77,13 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 .. toctree::
     :maxdepth: 3
     :numbered:
-    :caption: This is an incredibly long caption for a long menu
+    :caption: 这是一个很长的菜单的超长标题
     :hidden:
 
     demo/long
     
 .. toctree::
     :maxdepth: 3
-    :caption: Breadcrumbs
+    :caption: 面包屑
 
     demo/level1/index.rst
