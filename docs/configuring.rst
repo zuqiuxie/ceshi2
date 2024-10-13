@@ -1,8 +1,8 @@
 *************
-Configuration
+配置
 *************
 
-Theme options
+主题选项
 =============
 
 The following options can be defined in your project's ``conf.py`` file, using
