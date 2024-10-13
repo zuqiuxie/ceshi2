@@ -11,7 +11,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 使用此主题
 ----------------
 
-:doc:`安装`
+:doc:`installing`
     如何在您的 Sphinx 项目上安装此主题。
 
 :doc:`configuring`
@@ -53,7 +53,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
    :maxdepth: 2
    :hidden:
 
-   installing
+   安装
    configuring
    development
    contributing
