@@ -8,7 +8,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 .. _Sphinx: http://www.sphinx-doc.org
 .. _Read the Docs: http://www.readthedocs.org
 
-Using this theme
+使用此主题
 ----------------
 
 :doc:`installing`
@@ -23,7 +23,7 @@ Using this theme
 :ref:`supported-dependencies`
     Supported project dependencies, like Python and Sphinx.
 
-Development
+发展
 -----------
 
 :doc:`contributing`
@@ -49,7 +49,7 @@ Development
 .. Hidden TOCs
 
 .. toctree::
-   :caption: Theme Documentation
+   :caption: 主题文档
    :maxdepth: 2
    :hidden:
 
@@ -67,7 +67,7 @@ Development
 .. toctree::
     :maxdepth: 2
     :numbered:
-    :caption: Demo Documentation
+    :caption: 演示文档
     :hidden:
 
     demo/structure
